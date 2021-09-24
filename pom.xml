@@ -232,7 +232,8 @@
   </scm>
 
   <requireMavenVersion>
-    <version>3.8.2</version>
-  </requireMavenVersion>
-
+    <version>3.0</version>
+  </requireMavenVersion>       
+         
+         
 </project>
