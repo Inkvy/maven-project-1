@@ -231,8 +231,8 @@
     <url>http://github.com/jleetutorial/maven-project</url>
   </scm>
 
-  <prerequisites>
-    <maven>3.8.2</maven>
-  </prerequisites>
+  <requireMavenVersion>
+    <version>[3.8,)</version>
+  </requireMavenVersion>
 
 </project>
