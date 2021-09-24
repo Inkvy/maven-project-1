@@ -232,7 +232,7 @@
   </scm>
 
   <requireMavenVersion>
-    <version>[3.8,)</version>
+    <version>3.8.2</version>
   </requireMavenVersion>
 
 </project>
